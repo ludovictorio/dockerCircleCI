@@ -2,7 +2,7 @@
 FROM    ubuntu:trusty
 
 # File Author / Maintainer
-MAINTAINER Anand Mani Sankar
+MAINTAINER Ludovic Calvo dos Santos
 
 # Install Node.js and other dependencies
 RUN apt-get update && \
